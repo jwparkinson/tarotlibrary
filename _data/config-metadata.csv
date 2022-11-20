@@ -1,15 +1,14 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
+decktitle,Deck title,
+suit,Suit,
+publicationdate,Date of publication,
+creationdate,Date of creation,
+artist,Artist,
+contributor,Contributor(s),
+publisher,Publisher,
+language,Language,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+description,Description
+subject,Subject(s)
+rightsstatement,Rights,
