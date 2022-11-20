@@ -3,4 +3,7 @@ Home,/
 Browse,/browse.html
 Subjects,/subjects.html
 Data,/data.html
-About,/about.html
+display_text,stub,dropdown_parent
+About,,
+About the Collection,/about.html,About
+About Tarot,/tarot.html,About
