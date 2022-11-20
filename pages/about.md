@@ -12,4 +12,3 @@ credits: true
 
 ## About the Collection
 
-About the collection!
