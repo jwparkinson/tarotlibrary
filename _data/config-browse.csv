@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-suit,Suit,btn,true,Suit
+artist,Artist,,,
+suit,Suit,true,,Suit
 decktitle,Deck,true,,Deck
-location,,true
