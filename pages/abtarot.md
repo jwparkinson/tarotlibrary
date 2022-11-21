@@ -14,29 +14,32 @@ Of course, Tarot decks are rarely used today as ordinary playing cards. While th
 
 {% include feature/image.html objectid="tarotLovers" width="25" caption=false %}
 
-As occultism fell out of fashion, so too did the popularity of Tarot, until the rise of spiritualism at the end of the 19th century. Once again, interest in Tarot boomed in America and western Europe. With the rise of the mass production of goods, it was much easier to distribute them, leading to the standardization of a 78-card deck with 22 Major Arcana and four 14-card suits.
+As occultism fell out of fashion, so too did the popularity of Tarot, until the rise of spiritualism at the end of the 19th century. Once again, interest in Tarot boomed in America and western Europe. With the rise of the mass production of goods, it was much easier to distribute them, leading to the standardization of a 78-card deck with 22 Major Arcana and four 14-card suits. Today, there is still interest in Tarot as a way of divining the future, though it is also popular with artists and collectors simply for its aesthetic value. 
 
 ## About the Decks
+
+This collection contains 6 Major Arcana from four different Tarot decks, both modern and antique facsimiles. 
+
 ### Tarot de Marseilles  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum leo vel orci porta. Morbi tincidunt augue interdum velit. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Quam lacus suspendisse faucibus interdum. Dictum at tempor commodo ullamcorper a. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Et malesuada fames ac turpis egestas sed tempus urna et. Est placerat in egestas erat imperdiet sed. Suscipit tellus mauris a diam maecenas. Feugiat pretium nibh ipsum consequat nisl vel pretium. Nec feugiat in fermentum posuere urna nec. Turpis egestas pretium aenean pharetra magna ac.  
+Tarot de Marseilles is one of the oldest forms of Tarot, dating back to late 15th-century Italy. It became especially popular in France in the 1850s, leading to its francophone name despite its Italian origins. This deck of the *Tarot de Marseilles* was first published by Baptiste-Paul Grimaud in 1930, but was discontinued shortly afterwards due to the beginning of the second World War. The cards featured in this collection are from a facsimile reprint of Grimaud's original cards.   
 
 <p align=center>{% include feature/button.html text="View the collection" link="https://jwparkinson.github.io/tarotlibrary/browse.html#Tarot%20de%20Marseilles" color="success" %}</p>
 
 
 ### The Original Tarot
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum leo vel orci porta. Morbi tincidunt augue interdum velit. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Quam lacus suspendisse faucibus interdum. Dictum at tempor commodo ullamcorper a. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Et malesuada fames ac turpis egestas sed tempus urna et. Est placerat in egestas erat imperdiet sed. Suscipit tellus mauris a diam maecenas. Feugiat pretium nibh ipsum consequat nisl vel pretium. Nec feugiat in fermentum posuere urna nec. Turpis egestas pretium aenean pharetra magna ac.  
+*The Original Tarot* is a standard deck illustrated by Pamela Coleman Smith in 1910. A famous artist and spiritualist at the turn of the century, Smith was commissioned to create the deck by a fellow member of the Hermetic Order of the Golden Dawn, A.E. Waite. These cards were popular among spiritualists at the time, and many decks from the early 20th century still survive today. The cards featured in this collection are from a facsimile reprint of Smith's original cards. 
 
 <p align=center>{% include feature/button.html text="View the collection" link="https://jwparkinson.github.io/tarotlibrary/browse.html#The%20Original%20Tarot" color="success" %}</p>
 
 
 ### Tarot of the Divine
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum leo vel orci porta. Morbi tincidunt augue interdum velit. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Quam lacus suspendisse faucibus interdum. Dictum at tempor commodo ullamcorper a. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Et malesuada fames ac turpis egestas sed tempus urna et. Est placerat in egestas erat imperdiet sed. Suscipit tellus mauris a diam maecenas. Feugiat pretium nibh ipsum consequat nisl vel pretium. Nec feugiat in fermentum posuere urna nec. Turpis egestas pretium aenean pharetra magna ac.  
+Yoshi Yoshitani's *Tarot of the Divine* is a modern, multicultural reimagining of the allegorical symbolism depicted in Tarot decks. Yoshitani's cards each feature figures from folklore, mythology, and fairytales. This deck was originally published in 2020. 
 
 <p align=center>{% include feature/button.html text="View the collection" link="https://jwparkinson.github.io/tarotlibrary/browse.html#Tarot%20of%20the%20Divine" color="success" %}</p>
 
 
 ### The Phantomwise Tarot
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum leo vel orci porta. Morbi tincidunt augue interdum velit. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Quam lacus suspendisse faucibus interdum. Dictum at tempor commodo ullamcorper a. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Et malesuada fames ac turpis egestas sed tempus urna et. Est placerat in egestas erat imperdiet sed. Suscipit tellus mauris a diam maecenas. Feugiat pretium nibh ipsum consequat nisl vel pretium. Nec feugiat in fermentum posuere urna nec. Turpis egestas pretium aenean pharetra magna ac.  
+Erin Morgenstern's *Phantomwise Tarot* is a hand-painted deck inspired by Lewis Carroll's *Alice in Wonderland* and Morgenstern's love of steampunk. This deck is entirely black-and-white, and was originally printed in 2022.   
 
 <p align=center>{% include feature/button.html text="View the collection" link="https://jwparkinson.github.io/tarotlibrary/browse.html#The%20Phantomwise%20Tarot" color="success" %}</p>
 
