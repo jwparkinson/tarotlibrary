@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Tarot Library 
+title: The art of Tarot: a snapshot
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A digital library of tarot cards from multiple artists. 
+tagline: For Digital Libraries, Z652
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: For Z652, Digital Libraries.
+description: This is a digital image collection sampling cards from multiple Tarot decks. 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Julia Parkinson
 
